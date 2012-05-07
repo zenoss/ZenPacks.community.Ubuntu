@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.Ubuntu"
 VERSION = "1.0"
 AUTHOR = "Eric Edgar"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Ubuntu']
 INSTALL_REQUIRES = ['ZenPacks.community.LinuxMonitorAddOn>=1.0']
